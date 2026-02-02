@@ -144,10 +144,10 @@ export default function UploadZone({ onImageUpload }: UploadZoneProps) {
 
         <div className="flex flex-col items-center gap-2 text-center">
           <h2 className="text-2xl font-bold text-white">
-            Drop images anywhere
+            Drop image (of your taste) anywhere to start
           </h2>
           <p className="text-sm text-neutral-400">
-            .jpg and .png are supported file formats (multiple images allowed)
+            .jpg and .png are supported file formats (only single image allowed as of now)
           </p>
         </div>
 
